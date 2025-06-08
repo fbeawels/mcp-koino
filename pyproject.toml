@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Serveur MCP pour récupérer les missions publiées sur Koino.fr"
 readme = "README.md"
 authors = [
-    {name = "Franck", email = "franck@example.com"}
+    {name = "Franck", email = "franck@awels.io"}
 ]
 license = {text = "MIT"}
 classifiers = [
