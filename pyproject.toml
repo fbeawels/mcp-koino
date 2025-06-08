@@ -25,5 +25,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/koino"
-"Bug Tracker" = "https://github.com/yourusername/koino/issues"
+"Homepage" = "https://github.com/fbeawels/mcp-koino"
+"Bug Tracker" = "https://github.com/fbeawels/mcp-koino/issues"
